@@ -32,6 +32,10 @@ I like to build what I find interesting | sometimes it solves an issue, sometime
 
 - **[flowy](https://github.com/sotthird/flowy)** : a python code explanation tool through flows, best used to see how code works on a high level. \
  `Python` `dev-tools`
+
+**[rungs](https://github.com/sotthird/rungs)**: predicts per-instance difficulty from cheap features and allocates solver effort accordingly, including a sequential policy that decides whether to escalate based on evidence from actually running the cheap method first, evaluated against an oracle bound on capacitated facility location. \
+`Python` `optimization`
+
 ##  Coming soon
  
 - **flipy** — implementation of an open-sourced, fully mechanical and electronic split-flap clock
