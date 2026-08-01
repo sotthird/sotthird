@@ -30,11 +30,11 @@ I like to build what I find interesting | sometimes it solves an issue, sometime
 - **[dot](https://github.com/sotthird/dot)** : a modular embedded display framework built on the ESP32-S3, powered by LVGL v9. Dot provides the hardware foundation so you can focus on building whatever UI you want. \
 `ESP32-S3` `LVGL` `embedded`
 
+- **[rungs](https://github.com/sotthird/rungs)**: predicts per-instance difficulty from cheap features and allocates solver effort accordingly, including a sequential policy that decides whether to escalate based on evidence from actually running the cheap method first, evaluated against an oracle bound on capacitated facility location. \
+`Python` `optimization`
+
 - **[flowy](https://github.com/sotthird/flowy)** : a python code explanation tool through flows, best used to see how code works on a high level. \
  `Python` `dev-tools`
-
-**[rungs](https://github.com/sotthird/rungs)**: predicts per-instance difficulty from cheap features and allocates solver effort accordingly, including a sequential policy that decides whether to escalate based on evidence from actually running the cheap method first, evaluated against an oracle bound on capacitated facility location. \
-`Python` `optimization`
 
 ##  Coming soon
  
